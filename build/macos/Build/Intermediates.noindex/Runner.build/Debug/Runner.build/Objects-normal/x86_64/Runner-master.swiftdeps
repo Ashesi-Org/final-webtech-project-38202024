@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "f776ef2847b55b4ddf245ea0b548df97db7a0ec1cc68182795c74229d56b35cd"
+build_start_time: [1681742797, 247631000]
+build_end_time: [1681742816, 612975000]
+inputs:
+  "/Users/kotaa/StudioProjects/final_webtech_project/macos/Flutter/GeneratedPluginRegistrant.swift": [1681742794, 1512210]
+  "/Users/kotaa/StudioProjects/final_webtech_project/macos/Runner/AppDelegate.swift": [1680688778, 0]
+  "/Users/kotaa/StudioProjects/final_webtech_project/macos/Runner/MainFlutterWindow.swift": [1680688778, 0]
